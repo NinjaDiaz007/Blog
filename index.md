@@ -2,7 +2,7 @@
 layout: default
 ---
 
-lkjo;lfiwhjes;lovndcs;lvknkbjvf,xj
+En este blog se estara esplicando o mencionando de como se realizaron cada uno de los trabajos que se fueron desarrolando y se estran mencionado en cada vercion que cosas fueron cambiando tanto cuando se modifico y cuando se elimino un punto que se menciono en cada punto.
 
 # [Test Vocacional](./test-vocacional.html)
 
