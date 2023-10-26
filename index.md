@@ -1,12 +1,11 @@
 ---
 layout: default
 ---
+<link rel="icon" href="./img/tattoo.png">
 
-[Pagina del test vocacional](./test-vocacional.html).
+[Pagina del test vocacional](./test-vocacional.html)
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Se emplea el desarrollo de la creacion de una pagina web para la comunicaion entre el usuario y la IA.
 
 # Header 1
 
