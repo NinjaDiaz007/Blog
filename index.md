@@ -2,12 +2,12 @@
 layout: default
 ---
 
-# Test Vocacional
+[Test Vocacional](./test-vocacional.html)
 
-Se emplea el desarrollo de la creacion de una pagina web para la comunicaion entre el usuario y la IA. Ver mas - [Test Vocacional](./test-vocacional.html)
+Se emplea el desarrollo de la creacion de una pagina web para la comunicaion entre el usuario y la IA. Ver mas - 
 
 
-# Macu
+
 ## Header 2
 
 > This is a blockquote following a header.
