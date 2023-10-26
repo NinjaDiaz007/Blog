@@ -2,7 +2,7 @@
 layout: default
 ---
 
-#### [Test Vocacional](./test-vocacional.html)
+[Test Vocacional](./test-vocacional.html)
 
 Se emplea el desarrollo de la creacion de una pagina web para la comunicaion entre el usuario y la IA. Ver mas - 
 
