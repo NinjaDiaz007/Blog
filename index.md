@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-<link rel="icon" href="./img/tattoo.png">
 
 [Pagina del test vocacional](./test-vocacional.html)
 
@@ -10,6 +9,8 @@ Se emplea el desarrollo de la creacion de una pagina web para la comunicaion ent
 # Header 1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+[](www.google.com)
 
 ## Header 2
 
