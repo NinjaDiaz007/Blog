@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-
-[Pagina del test vocacional](./test-vocacional.html)
+# Test Vocacional
+[test vocacional](./test-vocacional.html)
 
 Se emplea el desarrollo de la creacion de una pagina web para la comunicaion entre el usuario y la IA.
 
