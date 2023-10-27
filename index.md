@@ -2,7 +2,9 @@
 layout: default
 ---
 
-En este blog se estara esplicando o mencionando de como se realizaron cada uno de los trabajos que se fueron desarrolando y se estran mencionado en cada vercion que cosas fueron cambiando tanto cuando se modifico y cuando se elimino un punto que se menciono en cada punto.
+En este blog, te explicaremos detalladamente cómo se llevaron a cabo todos los proyectos que hemos desarrollado. En cada versión, destacaremos los cambios significativos que se implementaron, así como los puntos que fueron eliminados y modificados en el transcurso de cada proyecto.
+
+Te invitamos a sumergirte en nuestro proceso creativo y de desarrollo, y a descubrir cómo hemos evolucionado con cada nuevo proyecto. ¡Acompáñanos en este viaje de innovación y mejora continua!
 
 # [Test Vocacional](./test-vocacional.html)
 
