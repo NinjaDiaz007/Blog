@@ -8,12 +8,12 @@ Te invitamos a sumergirte en nuestro proceso creativo y de desarrollo, y a descu
 
 # [Test Vocacional](./test-vocacional.html)
 
-Se emplea el desarrollo de la creacion de una pagina web para la comunicaion entre el usuario y la IA. Ver mas - 
+En este artículo, te mostraremos cómo se fue creando un test vocacional que utiliza la inteligencia artificial para ayudarte a descubrir tus intereses y habilidades. Te enseñaremos el proceso de desarrollo de la página web, su integración con la IA y sus beneficios. ¡Prepárate para tomar decisiones profesionales informadas!.
 
 
-### Small image
+<!--### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)-->
 
 
 <!--<dl>

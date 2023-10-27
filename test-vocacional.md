@@ -1,25 +1,31 @@
 # Test Vocacional
 
-Se estara realizando el dise&#241;o para una pagina web para un test vocacional que se estara usando los lenguages de programaci&#243;n _**HTML, CSS y JavaScript**_. En las siguientes verciones que se a&#241;adier&#243;n o se eliminaron ciertos elementos en la paguina pero se anunciaran a continuaci&#243;n que se realizo en cada verci&#243;n.
+En este blog, te llevar&#233; a trav&#233;s del emocionante proceso de desarrollo de un test vocacional en una p&#225;gina web, utilizando los lenguajes de programaci&#243;n HTML, CSS y JavaScript. A lo largo de las versiones, ver&#225;s cómo se han introducido y modificado varios elementos en la p&#225;gina para mejorar la experiencia del usuario.
 
 ## Verción 1.0
-- Se puso un gif como un hero de imagenes.
-- Se coloco un menu de navegacion(Pendiente).
+En la versión 1.0, dimos nuestros primeros pasos en la creación del test vocacional. Aquí están los cambios notables:
+
+- Agregamos un atractivo gif como imagen hero.
+- Iniciamos el diseño del menú de navegación (aún en proceso).
 
 ![](./img/hero.png)
 
 ## Verci&#243;n 1.1
-- Se estilizo el formato de las preguntas.
-- Boton para el modo oscuro.
+En la versión 1.1, hicimos algunos ajustes para mejorar la presentación y usabilidad:
+
+- Estilizamos el formato de las preguntas para una apariencia más atractiva.
+- Introdujimos un botón para habilitar el modo oscuro.
 
 ![](./img/pantalla1.png)
 
 ## Verci&#243;n 1.2
-- Mostrar las preguntas por medio de un arreglo.
-- Se estilizo los botones de siguiente y anterior (Pendiente).
-- Se a&#241;adi&#243; un nuevo boton para guardar (Pendiente).
+En la versión 1.2, continuamos mejorando la experiencia del usuario:
 
-### El c&#243;digo siguiente es la forma en c&#243;mo se estar&#225; desplegando las preguntas en la pantalla.
+- Ahora mostramos las preguntas a través de un arreglo, simplificando la administración de contenido.
+- Estamos en proceso de estilizar los botones de "Siguiente" y "Anterior" para una navegación más fluida.
+- Estamos trabajando en la incorporación de un nuevo botón para guardar tus respuestas.
+
+Además, aquí tienes una vista previa del código que utilizamos para mostrar las preguntas en la pantalla:
 
 ```javascript
 function PreguntasPantalla(){
@@ -35,26 +41,21 @@ PreguntasPantalla();
 ```
 
 # Verci&#243;n 2.0
-- Se a&#241;adio un carrusel para mostrar las preguntas (en bloques de 10 preguntas).
-- Se a&#241;adio un boton para guardar el contenido de las preguntas (Pendiente).
-- Se elimino la preguntas opci&#243;nes.
-- Funcionalidad a los botones (siguiente y anterio).
+En la versión 2.0, hemos dado un gran paso en la evolución del test vocacional:
+
+- Introdujimos un carrusel para mostrar las preguntas en bloques de 10, mejorando la navegación. 
+- Implementamos funcionalidad a los botones de "Siguiente" y "Anterior" para facilitar la exploración de las preguntas.
 
 # Verci&#243;n 2.1
-- Se actualizo el codigo para generar el documento.
-```javascript
-const guardarArchivoDeTexto = (contenido, nombre) => {
-    const a = document.createElement("a");
-    const archivo = new Blob([contenido], { type: 'text/plain;charset=utf-8' });
-    const url = URL.createObjectURL(archivo);
-    a.href = url;
-    a.download = nombre;
-    a.click();
-    URL.revokeObjectURL(url);
-}
-```
-- El menu de navegaci&#243;n (Funcionando).
-- El boton para guardar (Funcionando).
+En la versión 2.1, continuamos optimizando la experiencia del usuario:
+
+- Actualizamos el código para generar documentos, lo que permitirá guardar tus resultados.
+- El menú de navegación está ahora completamente funcional.
+- También hemos habilitado el botón para guardar tus respuestas.
 
 # Vercion 2.2
-- El boton para guardar el contenido de las preguntas (Funcionando).
+En la última versión, la 2.2, hemos alcanzado un hito importante:
+
+- El botón para guardar el contenido de las preguntas ahora está completamente funcional, lo que te permitirá guardar tus resultados de manera sencilla.
+
+¡Mantente atento para futuras actualizaciones y mejoras en nuestro test vocacional! Estamos comprometidos a brindarte la mejor experiencia posible en tu búsqueda de la carrera ideal.
