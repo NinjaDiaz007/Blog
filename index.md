@@ -6,7 +6,7 @@ En este blog, te explicaremos detalladamente cómo se llevaron a cabo todos los 
 
 Te invitamos a sumergirte en nuestro proceso creativo y de desarrollo, y a descubrir cómo hemos evolucionado con cada nuevo proyecto. ¡Acompáñanos en este viaje de innovación y mejora continua!
 
-# [Micro SD Card](./microSD.html)
+# [Micro SD Card](./microSd.html)
 
 En este precentando una breve explicacion sobre el funcionamiento y como se debe colocar las conexiones en la rasberry pico w.
 
