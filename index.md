@@ -6,9 +6,11 @@ En este blog, te explicaremos detalladamente cómo se llevaron a cabo todos los 
 
 Te invitamos a sumergirte en nuestro proceso creativo y de desarrollo, y a descubrir cómo hemos evolucionado con cada nuevo proyecto. ¡Acompáñanos en este viaje de innovación y mejora continua!
 
-# [Micro SD Card](./microSd.html)
+# [Test Vocacional](./docs/Proyecto_IA/index.html)
 
-En este precentando una breve explicacion sobre el funcionamiento y como se debe colocar las conexiones en la rasberry pico w.
+En este precentamos el test vocacional ya listo para funcionar y establecer los resultado.
+
+Con el siguiente link se mosntrara en detalle que se modifico y como el resultado final quedo. -> [Repositosio](https://github.com/NinjaDiaz007/Proyecto_IA)
 
 
 <!--### Small image
