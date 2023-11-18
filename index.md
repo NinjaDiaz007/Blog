@@ -12,7 +12,7 @@ Esta línea de tiempo muestra cómo la seguridad en bases de datos ha evoluciona
 # [Tipo Linea de Tiempo de Esquema de Traducci&#243;n](./LineadeTIempo-EsquemaTraduccion/index.html) 
 Esta línea de tiempo ilustra la evolución de la traducción automática, desde enfoques iniciales centrados en reglas hasta la adopción de modelos de aprendizaje profundo. Se destaca la creciente relevancia de los datos y la capacidad mejorada para procesar patrones lingüísticos de manera más sofisticada a lo largo de los años.
 
-# [Test Vocacional](./ProyectoIA/index.html)
+# <a target="_black" href="./ProyectoIA/index.html">Test Vocacional</a>
 
 En este precentamos el test vocacional ya listo para funcionar y establecer los resultado.
 
