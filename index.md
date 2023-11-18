@@ -9,10 +9,10 @@ Te invitamos a sumergirte en nuestro proceso creativo y de desarrollo, y a descu
 # [Linea de Tiempo de Seguridad en la BD](./LineadeTiempo-Seguridad/index.html) 
 Esta línea de tiempo muestra cómo la seguridad en bases de datos ha evolucionado desde sus inicios hasta hoy, resaltando el aumento en la complejidad y sofisticación de las medidas de seguridad para hacer frente a las amenazas emergentes. (Falta actualizarlo).
 
-# [Linea de Tiempo de Esquema de Traducci&#243;n](./LineadeTIempo-EsquemaTraduccion/index.html) 
+# [Tipo Linea de Tiempo de Esquema de Traducci&#243;n](./LineadeTIempo-EsquemaTraduccion/index.html) 
 Esta línea de tiempo ilustra la evolución de la traducción automática, desde enfoques iniciales centrados en reglas hasta la adopción de modelos de aprendizaje profundo. Se destaca la creciente relevancia de los datos y la capacidad mejorada para procesar patrones lingüísticos de manera más sofisticada a lo largo de los años.
 
-# [Test Vocacional](./docs/Proyecto_IA/index.html)
+# [Test Vocacional](./ProyectoIA/index.html)
 
 En este precentamos el test vocacional ya listo para funcionar y establecer los resultado.
 
