@@ -6,7 +6,7 @@ En este blog, te explicaremos detalladamente cómo se llevaron a cabo todos los 
 
 Te invitamos a sumergirte en nuestro proceso creativo y de desarrollo, y a descubrir cómo hemos evolucionado con cada nuevo proyecto. ¡Acompáñanos en este viaje de innovación y mejora continua!
 
-# [Linea de Tiempo de Seguridad en la BD](./docs/LineadeTiempo-Seguridad/index.html) 
+# [Linea de Tiempo de Seguridad en la BD](./LineadeTiempo-Seguridad/index.html) 
 Esta línea de tiempo muestra cómo la seguridad en bases de datos ha evolucionado desde sus inicios hasta hoy, resaltando el aumento en la complejidad y sofisticación de las medidas de seguridad para hacer frente a las amenazas emergentes. (Falta actualizarlo).
 
 # [Linea de Tiempo de Esquema de Traducci&#243;n](./docs/LineadeTIempo-EsquemaTraduccion/index.html) 
