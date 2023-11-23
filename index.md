@@ -12,11 +12,15 @@ Esta línea de tiempo muestra cómo la seguridad en bases de datos ha evoluciona
 # [Tipo Linea de Tiempo de Esquema de Traducci&#243;n](./LineadeTIempo-EsquemaTraduccion/index.html) 
 Esta línea de tiempo ilustra la evolución de la traducción automática, desde enfoques iniciales centrados en reglas hasta la adopción de modelos de aprendizaje profundo. Se destaca la creciente relevancia de los datos y la capacidad mejorada para procesar patrones lingüísticos de manera más sofisticada a lo largo de los años.
 
+# [Test Animal Totem Mistico](./Test-Totem/index.html) 
+Con este test encontraras &#191;cual es tu animal totem? que estas relacionado a tu forma de ver la vida y una parte de tu personalidad. No te que des sin saber que animal totem se rigue.
+
 # <a target="_black" href="./ProyectoIA/index.html">Test Vocacional</a>
 
 En este precentamos el test vocacional ya listo para funcionar y establecer los resultado.
 
-Con el siguiente link se mosntrara en detalle que se modifico y como el resultado final quedo. -> <a title="repositorio" target="_black" href="https://github.com/NinjaDiaz007/Proyecto_IA">Repositosio</a> 
+Con el siguiente link se mosntrara en detalle que se modifico y como el resultado final quedo.  
+-> <a title="repositorio" target="_black" href="https://github.com/NinjaDiaz007/Proyecto_IA">Repositosio</a> 
 
 
 <!--<dl>

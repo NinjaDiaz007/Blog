@@ -1,0 +1,146 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+	/*background-color: #131313;
+    color: white;*/
+}
+
+.margen-2{
+	padding: 5% 10%;
+}
+
+/*=============================================*/
+/*============= Hero de Imagenes ==============*/
+/*=============================================*/
+.hero{
+	width: 100%;
+	height: 300px;
+	position: relative;
+}
+.hero img{
+	width: 100%;
+	height: 100%;
+}
+.hero .texto{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	color: white;
+	font-size: 40px;
+	transform: translate(-50%, -50%);
+	text-align: center;
+	z-index: 10;
+}
+/*=============================================*/
+
+/*=============================================*/
+/*================ Las Preguntas ==============*/
+/*=============================================*/
+.quizz{
+	padding: 30px;
+	border-radius: 5px;
+	border: solid #000 2px;
+	/*border: solid aliceblue 2px;*/
+}
+.quizz ol{
+	list-style: none;
+	margin-left: 5%;
+}
+.quizz ol li{
+	font-size: 18px;
+}
+
+.text-principal{
+	font-size: 20px;
+}
+/*=============================================*/
+
+/*=============================================*/
+/*============== Modal Resultado ==============*/
+/*=============================================*/
+#btn-modal-totem{
+	display: none;
+}
+#btn-modal-totem:checked ~ .totem-resl{
+	left: 50%;
+}
+
+.totem-resl{
+	position: fixed;
+	top: 50%;
+	left: -50%;
+	background-color: #3b3b3b;
+	padding: 20px;
+	border-radius: 7px;
+	transform: translate(-50%, -50%);
+	width: 60%;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	transition: all .7s ease;
+}
+.totem-resl img{
+	width: 45%;
+}
+.totem-resl .lbl-cerrar{
+	width: 30%;
+	padding: .5rem 1rem;
+	display: block;
+	cursor: pointer;
+}
+/*=============================================*/
+
+/*=============================================*/
+/*============Botones de la Pagina=============*/
+/*=============================================*/
+.btn-btn{
+	width: 30%;
+	padding: 0.6rem 1rem;
+	display: block;
+	margin: 4% auto 0% auto;
+	cursor: pointer;
+	background-color: #3b3b3b;
+	border: none;
+	border-radius: 5px;
+	font-size: 20px;
+	color: white;
+}
+.btn-btn:hover{
+	background-color: #1561f0;
+}
+/*=============================================*/
+
+/*=============================================*/
+/*============== Pie de la Pagina =============*/
+/*=============================================*/
+.pie-pagina{
+	display: flex;
+	align-items: center;
+	background-color: #3b3b3b;
+	color: white;
+	font-size: 20px;
+	padding: 3% 6%;
+	flex-wrap: wrap;
+	width: 100%;
+}
+.pie-pagina .contacto{
+	width: 40%;
+}
+.pie-pagina .enlace{
+	width: 60%;
+	display: flex;
+}
+.pie-pagina .enlace a{
+	display: block;
+	color: white;
+	margin-left: 1%;
+}
+/*=============================================*/
+
+/*=============================================*/
+/*=============================================*/
+/*=============================================*/
