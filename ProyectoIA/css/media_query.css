@@ -50,8 +50,8 @@
     /* Segundo Card */
     .card-2{
         width: 100%;
-        top: 0;
-        left: 0;
+        top: 0%;
+        left: -50%;
         transform: translate(-0%, -0%);
     }
     .card-2 .card-2-body .btn-controls{
